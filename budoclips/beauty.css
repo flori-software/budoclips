@@ -1,0 +1,121 @@
+	body {
+		background-image: url("pics/kumamoto.jpg");
+		align-content: center;
+	}
+	.mittelteil {
+		position: absolute;
+		margin-left: auto;
+		margin-right: auto;
+		left: 0;
+		right: 0;
+		top: 0px;
+		width: 65%;
+		border-radius: 0px 0px 20px 20px;
+		background-color: lightgoldenrodyellow;
+		align-content: center;
+		font-family: Trebuchet MS, Helvetica;
+		font-size: 14px;
+	}
+	.titelbild {
+		width: 100%;
+	}
+	.menupunkt {
+		width: 11%;
+	}
+	.inhalt {
+		padding: 10px;
+	}
+	.login {
+		text-align: right;
+	}
+	
+	a:link, a:visited {
+		text-decoration: none;
+		color: darkred;
+	}
+	a:hover, a:active {
+		color: olive;
+	}
+
+	a.menu:link, a.menu:visited {
+		text-decoration: none;
+		color: darkred;
+		padding: 8px 15px;
+		text-align: center;
+		display: inline-block;
+	}
+	a.menu:hover, a.menu:active {
+		background-color: darkred;
+		color: white;
+	}
+	
+	input {
+  		border: 0px;
+  		margin-top: 0px;
+  		margin-bottom: 10px;
+  		padding: 5px;
+  		height: 30px;
+  		font-size: 20px;
+  		font-weight: lighter;
+
+  		-moz-border-radius: 12px;
+  		-webkit-border-radius: 12px;
+  		border-radius: 12px;
+
+  		-moz-box-shadow: 4px 4px 14px #000;
+  		-webkit-box-shadow: 4px 4px 14px #000;
+  		box-shadow: 4px 4px 14px #000;
+	}
+	
+	input.checkbox {
+		border: 0px;
+  		margin-top: 0px;
+  		margin-bottom: 0px;
+  		padding: 0px;
+  		height: 15px;
+
+  		-moz-border-radius: 0px;
+  		-webkit-border-radius: 0px;
+  		border-radius: 0px;
+
+  		-moz-box-shadow: 0px 0px 0px #000;
+  		-webkit-box-shadow: 0px 0px 0px #000;
+  		box-shadow: 0px 0px 0px #000;
+
+	}
+	select {
+		border: 0px;
+  		margin-top: 0px;
+  		margin-bottom: 10px;
+  		padding: 5px;
+  		height: 30px;
+  		font-size: 20px;
+  		font-weight: lighter;
+
+  		-moz-border-radius: 12px;
+  		-webkit-border-radius: 12px;
+  		border-radius: 12px;
+
+  		-moz-box-shadow: 4px 4px 14px #000;
+  		-webkit-box-shadow: 4px 4px 14px #000;
+  		box-shadow: 4px 4px 14px #000;
+	}
+	
+	.nachricht {
+		font-size: 36px;
+		font-weight: lighter;
+	}
+
+	.downloadbutton {
+		background-color: darkred;
+		border-radius: 20px;
+		height: 30px;
+		color: white;
+		padding: 10px;
+		width: 200px;
+		text-align: center;
+	}
+
+
+	
+	
