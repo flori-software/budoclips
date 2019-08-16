@@ -17,14 +17,24 @@ include "page_start.php";
 
 <tr><td> Katate-Katate-dori<br>(Ai-hammi) </td> <td><ul> <li>Ikkyo <li>Shiho-nage </ul></td>
 <td><ul> <li>Nikyo <li>Juji-nage <li>Irimi-nage <li>Kote-gaeshi </ul></td> 
-<td><ul> <li>Sankyo <li>Sumi-otoshi <li>Kokyu-nage </ul></td> <td><ul> <li>Yonkyo <li>Jiyu-waza </ul></td>
+<td><ul> <li>Sankyo <li>Sumi-otoshi <li>Kokyu-nage </ul></td>
+ <td><ul> <li>Yonkyo <li>Jiyu-waza </ul></td>
 <td><ul> <li>Ikkyo-Kote-gaeshi <li>Ikkyo-Shiho-nage <li>Koshi-nage(soto-tenkan) </ul></td></tr>
 
 <tr><td> Katate-Katate-dori<br>(Gyaku-hanmi) </td> <td><ul> <li>Shiho-nage </ul></td> 
 <td><ul> <li>Ikkyo(soto-irimi) <li>Sumi-otoshi <li>Kokyu-nage(irimi) </ul></td>
 <td><ul> <li>Ikkyo<br>(atemi-uchi-tenkan / sukui) <li>Juji-nage<br>(uchi+soto-tenkan) </ul></td>
 <td><ul> <li>Nikyo (2 Arten) <li>Kote-gaeshi <li>Kaiten-nage <li>Jiyu-Waza </ul></td>
-<td><ul> <li>Sankyo (2 Arten) <li>Yonkyo (2 Arten) <li>Irimi-nage (soto-irimi 2 Arten) <li>Kote-gaeshi (hineri) </ul></td>
+<td><ul> <li>Sankyo (2 Arten) <li>Yonkyo (2 Arten) <li>Irimi-nage (soto-irimi 2 Arten) 
+<li>Kote-gaeshi (hineri) </ul></td>
+
+<tr><td> Katate-Muna-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
+<td><ul> <li>Sankyo <li>Kiri-otoshi </ul></td> <td><ul> <li>Yonkyo <li>Fukiage </ul></td>
+<td><ul> <li>Shiho-nage <li>Fukiage (harai-te) </ul></td></tr>
+
+<tr><td> Katate-Kata-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
+<td><ul> <li>Sankyo <li>Fukiage </ul></td> <td><ul> <li>Yonkyo <li>Kiri-otoshi </ul></td>
+<td><ul> <li>Shiho-nage (atemi, Ukete führen) </ul></td>
 </table>
 <?php
 include "page_end.php";
