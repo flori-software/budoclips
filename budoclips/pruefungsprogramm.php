@@ -26,7 +26,7 @@ include "page_start.php";
 <td><ul> <li>Ikkyo<br>(atemi-uchi-tenkan / sukui) <li>Juji-nage<br>(uchi+soto-tenkan) </ul></td>
 <td><ul> <li>Nikyo (2 Arten) <li>Kote-gaeshi <li>Kaiten-nage <li>Jiyu-Waza </ul></td>
 <td><ul> <li>Sankyo (2 Arten) <li>Yonkyo (2 Arten) <li>Irimi-nage (soto-irimi 2 Arten) 
-<li>Kote-gaeshi (hineri) </ul></td>
+<li>Kote-gaeshi (hineri) </ul></td></tr>
 
 <tr><td> Katate-Muna-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
 <td><ul> <li>Sankyo <li>Kiri-otoshi </ul></td> <td><ul> <li>Yonkyo <li>Fukiage </ul></td>
@@ -34,7 +34,21 @@ include "page_start.php";
 
 <tr><td> Katate-Kata-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
 <td><ul> <li>Sankyo <li>Fukiage </ul></td> <td><ul> <li>Yonkyo <li>Kiri-otoshi </ul></td>
-<td><ul> <li>Shiho-nage (atemi, Ukete führen) </ul></td>
+<td><ul> <li>Shiho-nage (atemi, Ukete führen) </ul></td></tr>
+
+<tr><td> Ryote-Katate-dori (Morote-dori) </td> <td><ul> <li>Ikkyo </ul></td> 
+<td><ul> <li>Nikyo <li>Juji-nage </ul></td> 
+<td><ul> <li>Shiho-nage <li>Kokyu-nage (uchi- / sototenkan, mae und ushiro) </ul></td>
+<td><ul> <li>Nikyo (Soto) <li>Irimi-nage 
+<li>Kokyu-nage (soto-tenkan-makikomi, dann mit der freien Hand werfen) </ul></td>
+<td><ul> <li>Sumi-otoshi (soto-tenkan) <li>Jiyu-Waza </ul></td></tr>
+
+<tr><td> Ryote-Ryote-dori </td> <td><ul> <li>Shiho-gaeshi </ul></td> 
+<td><ul> <li>Ikkyo <li>Juji-nage </ul></td> 
+<td><ul> <li>Nikyo <li>Shiho-nage <li>Kokyu-nage <li>Tenchi-nage </ul></td>
+<td><ul> <li>Sankyo <li>Yonkyo <li>Kesa-gake </ul></td> <td><ul> <li>Koshi-nage <li>Kokyu-ho </ul></td>
+
+</tr>
 </table>
 <?php
 include "page_end.php";
