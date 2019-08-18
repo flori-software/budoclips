@@ -46,9 +46,27 @@ include "page_start.php";
 <tr><td> Ryote-Ryote-dori </td> <td><ul> <li>Shiho-gaeshi </ul></td> 
 <td><ul> <li>Ikkyo <li>Juji-nage </ul></td> 
 <td><ul> <li>Nikyo <li>Shiho-nage <li>Kokyu-nage <li>Tenchi-nage </ul></td>
-<td><ul> <li>Sankyo <li>Yonkyo <li>Kesa-gake </ul></td> <td><ul> <li>Koshi-nage <li>Kokyu-ho </ul></td>
+<td><ul> <li>Sankyo <li>Yonkyo <li>Kesa-gake </ul></td> 
+<td><ul> <li>Koshi-nage <li>Kokyu-ho </ul></td></tr>
 
-</tr>
+<tr><td> Ryote-Muna-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> Nikyo </ul></td>
+<td><ul> Sankyo </ul></td> <td><ul> Yonkyo </ul></td> <td><ul> Kaji-mawashi </ul></td></tr>
+
+<tr><td> Mune-Ude-dori </td> <td></td> <td></td> <td></td> <td><ul> <li>Hiji-gaeshi </ul></td> 
+<td></td></tr>
+
+<tr><td> Shomen-uchi </td> <td><ul> <li>Ikkyo <li>Irimi-nage </ul></td> 
+<td><ul> <li>Nikyo <li>Sumi-otoshi </ul></td> 
+<td><ul> <li>Sankyo <li>Yonkyo <li>Kote-gaeshi </ul></td>
+<td><ul> <li>Uchi-Sankyo <li>Kiriotoshi </ul></td>
+<td><ul> <li>Kokyu-nage (irimi-tenkan) 
+<li>Koshi-nage (soto-tenkan) <li>Uchi-Kaiten-nage (soto-tenkan) </ul></td></tr>
+
+<tr><td> Yokomen-uchi </td> <td><ul> <li>Kiri-otoshi </ul></td> 
+<td><ul> <li>Ikkyo <li>Shiho-nage </ul></td> 
+<td><ul> <li>Nikyo <li>Irimi-nage <li>Kote-gaeshi </ul></td>
+<td><ul> <li>Yonkyo <li>Juji-nage <li>Sumi-otoshi </ul></td>
+<td><ul> <li>Uchi-Sankyo <li>Gokyo </ul></td></tr>
 </table>
 <?php
 include "page_end.php";
