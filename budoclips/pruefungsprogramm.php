@@ -67,6 +67,15 @@ include "page_start.php";
 <td><ul> <li>Nikyo <li>Irimi-nage <li>Kote-gaeshi </ul></td>
 <td><ul> <li>Yonkyo <li>Juji-nage <li>Sumi-otoshi </ul></td>
 <td><ul> <li>Uchi-Sankyo <li>Gokyo </ul></td></tr>
+
+<tr><td> Tsuki </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Sumi-otoshi <li>Fukiage </ul></td>
+<td><ul> <li>Nikyo <li>Irimi-nage <li>Kote-gaeshi </ul></td> 
+<td><ul> <li>Yonkyo <li>Shiho-nage <li>Kokyu-nage (sot-tenkan) </ul></td>
+<td><ul> <li>Kiri-otoshi (soto-tenkan) <li>Uchi-Kaiten-nage (soto-tenkan)</tr>
+
+<tr><td colspan = "6"> <b>Tachi-Waza(Ushiro-Seme) </td></tr>
+<tr><td> Katate-Muna-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
+<td><ul> <li>Sankyo </ul></td> <td><ul> <li>Yonkyo </ul></td> <td>  </td></tr>
 </table>
 <?php
 include "page_end.php";
