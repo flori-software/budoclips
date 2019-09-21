@@ -76,6 +76,20 @@ include "page_start.php";
 <tr><td colspan = "6"> <b>Tachi-Waza(Ushiro-Seme) </td></tr>
 <tr><td> Katate-Muna-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
 <td><ul> <li>Sankyo </ul></td> <td><ul> <li>Yonkyo </ul></td> <td>  </td></tr>
+
+<tr><td> Eri-dori </td> <td>  </td> <td>  </td> <td><ul> <li>Fukiage </ul></td> 
+<td><ul> <li>Irimi-nage </ul></td> <td><ul> <li>Kokyu-nage </ul></td></tr>
+
+<tr><td> Kubi-jime </td> <td><ul>  </ul></td> <td><ul> </ul></td> 
+<td><ul> <li>Sumi-otoshi </ul></td> <td><ul> </ul></td> <td><ul> <li>Irimi-nage </ul></td></tr>
+
+<tr><td> Ryote-dori </td> <td><ul> <li>Shiho-nage </ul></td> 
+<td><ul> <li>Ikkyo <li>Irimi-nage </ul></td> <td><ul> <li>Nikyo <li>Kote-gaeshi 
+<li>Kokyu-nage (beide Hände hoch) </ul></td> <td><ul> <li>Yonkyo <li>Kokyu-nage (2 Arten) </ul></td>
+<td><ul> <li>Yonkyo <li>Kokyu-nage (eine Hand an die Hüfte) <li>Juji-Irimi-nage </ul></td></tr> 
+
+<tr><td> Ryo-Kata-dori </td> <td><ul> </ul></td> <td><ul> <li>Ikkyo </ul></td> 
+<td><ul> <li>Nikyo </ul></td> <td><ul> </ul></td> <td><ul> <li>Kokyu-nage (ushiro) </ul></td></tr>
 </table>
 <?php
 include "page_end.php";
