@@ -74,6 +74,7 @@ include "page_start.php";
 <td><ul> <li>Kiri-otoshi (soto-tenkan) <li>Uchi-Kaiten-nage (soto-tenkan)</tr>
 
 <tr><td colspan = "6"> <b>Tachi-Waza(Ushiro-Seme) </td></tr>
+
 <tr><td> Katate-Muna-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
 <td><ul> <li>Sankyo </ul></td> <td><ul> <li>Yonkyo </ul></td> <td>  </td></tr>
 
@@ -90,6 +91,19 @@ include "page_start.php";
 
 <tr><td> Ryo-Kata-dori </td> <td><ul> </ul></td> <td><ul> <li>Ikkyo </ul></td> 
 <td><ul> <li>Nikyo </ul></td> <td><ul> </ul></td> <td><ul> <li>Kokyu-nage (ushiro) </ul></td></tr>
+
+<tr><td colspan = "6"> <b>Suwari-Waza (Mae-Seme) </td></tr>
+
+<tr><td> Katate-Katate-dori <br>-diagonal(1) <p>-gerade(2)</td> <td><ul> <li>(1)Ikkyo </ul></td>
+<td><ul> <li>(1)Nikyo <li>(2)Ikkyo </ul></td> <td><ul> <li>(1)Sankyo <li>(1)Irimi-nage 
+<li>(2)Nikyo </ul></td> <td><ul> <li>(1)Kote-gaeshi </ul></td> 
+<td><ul> <li>(2)Kokyu-nage </ul></td></tr>
+
+<tr><td> Ryote-dori </td> <td><ul> <li>Kokyu-ho </ul></td> <td><ul> <li>Ikkyo </ul></td>
+<td><ul> <li>Ryo-Nikyo </ul></td> <td>  </td> <td>  </td></tr>
+
+<tr><td> Katate-Kata-dori </td> <td>  </td> <td><ul> <li>Ikkyo </ul></td> 
+<td><ul> <li>Nikyo </ul></td> <td>  </td> <td>  </td></tr>
 </table>
 <?php
 include "page_end.php";
