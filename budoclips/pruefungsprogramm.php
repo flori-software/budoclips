@@ -104,6 +104,44 @@ include "page_start.php";
 
 <tr><td> Katate-Kata-dori </td> <td>  </td> <td><ul> <li>Ikkyo </ul></td> 
 <td><ul> <li>Nikyo </ul></td> <td>  </td> <td>  </td></tr>
+
+<tr><td> Shomen-uchi </td><td>  </td><td><ul> <li>Ikkyo </ul></td><td><ul> <li>Nikyo </ul></td>
+<td><ul> <li>Yonkyo </ul></td><td><ul> <li>Kiriotoshi </ul></td></tr>
+
+<tr><td> Yokomen-uchi </td><td><ul>  </ul></td><td><ul> <li>Ikkyo </ul></td><td><ul>  </ul></td>
+<td><ul>  </ul></td><td><ul> <li>Gokyo </ul></td></tr>
+
+<tr><td colspan = "6"> <b>Suwari-Waza (Ushiro-Seme) </td></tr>
+
+<tr><td> Ryote-dori </td><td><ul>  </ul></td><td><ul>  </ul></td><td><ul> <li>Kokyu-nage </ul></td>
+<td><ul> <li>Ikkyo <li>Nikyo (Ura) </ul></td><td><ul> <li>Sankyo (Ura) <li>Yonkyo (Ura) </ul></td>
+</tr>
+
+<tr><td colspan = "6"> <b>Hanmi-Handachi </td></tr>
+
+<tr><td> Katate-Katate-dori (Gyaku-Hanmi) </td><td><ul>  </ul></td><td><ul>  </ul></td>
+<td><ul>  </ul></td><td><ul> <li>Shiho-nage </ul></td>
+<td><ul> <li>Kote-gaeshi (nukite/hineri) </ul></td></tr>
+
+<tr><td> Ryote-dori </td><td><ul>  </ul></td><td><ul>  </ul></td><td><ul>  </ul></td>
+<td><ul>  </ul></td><td><ul> <li>Shiho-nage </ul></td></tr>
+
+<tr><td colspan = "6"> <b>Sonstige Techniken </td></tr>
+
+<tr><td> <b>Futari-gake </td><td><ul>  </ul></td><td><ul>  </ul></td><td><ul>  </ul></td>
+<td><ul> <li>Kokyu-nage </ul></td><td><ul> <li>Ryo-Nikyo (uchi/soto) </ul></td></tr>
+
+<tr><td><ul> <b>Tanto-dori</b> <li> Uchioroshi <li> Tsuki </ul></td><td><ul>  </ul></td>
+<td><ul>  </ul></td><td><ul>  </ul></td><td><ul> <br> <li>Ikkyo (irimini) 
+<li>Ikkyo (tenkan) </ul></td><td><ul> <br> <li>Kote-gaeshi <li>Kote-gaeshi </ul></td></tr>
+
+<tr><td><ul> <b>Tachi-dori</b> <li> Shomen-uchi </ul></td><td><ul>  </ul></td>
+<td><ul>  </ul></td><td><ul>  </ul></td><td><ul> <br> <li>Ikkyo (irimini) </ul></td>
+<td><ul> <br> <li>Kokyu-nage </ul></td></tr>
+
+<tr><td><ul> <b>Jo-dori</b> <li> Tsuki </ul></td><td><ul>  </ul></td>
+<td><ul>  </ul></td><td><ul>  </ul></td><td><ul> <br> <li>Kokyu-nage, mae (omote) </ul></td>
+<td><ul> <br> <li>Kokyu-nage, mae (ura = nukido) <li>Jo-gaeshi </ul></td></tr>
 </table>
 <?php
 include "page_end.php";
