@@ -1,6 +1,7 @@
 <?php
 include "page_start.php";
 ?>
+<h3>Programm für Kyu-Grade</h3>
 <table rules="all">
 <tr><td>  </td> <td> <b>5.Kyu </td> <td> <b>4.Kyu </td> <td> <b>3.Kyu </td> <td> <b>2.Kyu </td>
 <td> <b>1.Kyu </td></tr>
@@ -142,6 +143,16 @@ include "page_start.php";
 <tr><td><ul> <b>Jo-dori</b> <li> Tsuki </ul></td><td><ul>  </ul></td>
 <td><ul>  </ul></td><td><ul>  </ul></td><td><ul> <br> <li>Kokyu-nage, mae (omote) </ul></td>
 <td><ul> <br> <li>Kokyu-nage, mae (ura = nukido) <li>Jo-gaeshi </ul></td></tr>
+</table>
+<h3>Programm für Dan-Grade</h3>
+<table rules="all">
+<tr><td>  </td><td> <b>1.Dan </td><td> <b>2.Dan </td><td> <b>3.Dan </td><td> <b>4.Dan </td></tr>
+
+<tr><td> Kata </td><td><ul> <li>Tachi-Kata </ul></td><td><ul> <li>Jo-Kata </ul></td>
+<td><ul> Tenchi </ul></td><td><ul>  </ul></td></tr>
+
+<tr><td colspan = "6"> <b>Tachi-Waza(Mae-Seme) </td>
+
 </table>
 <?php
 include "page_end.php";
