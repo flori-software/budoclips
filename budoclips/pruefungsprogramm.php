@@ -151,8 +151,24 @@ include "page_start.php";
 <tr><td> Kata </td><td><ul> <li>Tachi-Kata </ul></td><td><ul> <li>Jo-Kata </ul></td>
 <td><ul> Tenchi </ul></td><td><ul>  </ul></td></tr>
 
-<tr><td colspan = "6"> <b>Tachi-Waza(Mae-Seme) </td>
+<tr><td colspan = "6"> <b>Tachi-Waza(Mae-Seme) </td></tr>
 
+<tr><td> Katate-Katate-dori (Gyaku-hanmi) </td><td><ul> <li>Koshi-nage (ikkyo) 
+<li>Uchi-Sankyo </ul></td><td><ul> <li>Koshi-nage (kote-hineri) <li>Karami-nage </ul></td>
+<td><ul> <li>Nikyo-Yokodomoe </ul></td><td><ul> <li>Uzishio </ul></td></tr>
+
+<tr><td> Katate-Katate-dori (Gyaku-hanmi) </td><td><ul> <li>Kote-gaeshi (nukite) 
+<li>Koshi-nage (soto-tenkan) <li>Shiho-nage (ude-gaeshi) </ul></td>
+<td><ul> <li>Koshi-nage (tegatana/sukui) <li>Suso-barai (soto-tenkan-ushi-irimi-tenkan) 
+<li>Kata-otoshi(tegatana) </ul></td><td><ul> <li>Koshi-nage (uchi-tenkan-kote-hineri) <p>
+<li>Suso-barai (uchi-tenkan-kirikaeshi) </ul></td><td><ul> <li>Maki-Arashi </ul></td></tr>
+
+<tr><td> Katate-Muna-dori </td><td><ul> <li>Hiji-gaeshi <li>Uchi-Sankyo </ul></td>
+<td><ul> <li>Narabi-Juji-nage <li>Juji-garami (atemi) </ul></td><td><ul> <li>Yoko-domoe 
+<li>Hiji-gatame </ul></td><td><ul>  </ul></td></tr>
+
+<tR><td> Katate-Kata-dori </td><td><ul> <li>Hiji-gaeshi </ul></td><td><ul> <li>Kesa-gake (atemi) 
+</ul></td><td><ul> Kesa-gime (atemi) </ul></td><td><ul>  </ul></td></tr>
 </table>
 <?php
 include "page_end.php";
