@@ -169,6 +169,26 @@ include "page_start.php";
 
 <tR><td> Katate-Kata-dori </td><td><ul> <li>Hiji-gaeshi </ul></td><td><ul> <li>Kesa-gake (atemi) 
 </ul></td><td><ul> Kesa-gime (atemi) </ul></td><td><ul>  </ul></td></tr>
+
+<tr><td> Ryote-Katate-dori (Morote-dori) </td><td><ul> <li>Koshi-nage (uchi-/soto-irimi) 
+</ul></td><td><ul> <li>Koshi-nage (uchi-/soto-tenkan) <li>Suso-barai(kirikaeshi) </ul></td>
+<td><ul> <li>ATenzashi </ul></td><td><ul> <li>Uzushio </ul></td></tr>
+
+<tr><td> Ryote-Ryote-dori </td><td><ul> <li>Kiri-otoshi (uchi/soto) 
+<li>Kote-gaeshi (nukite-hineri) </ul></td><td><ul> <li>Kaji-mawashi <li>Tsubasa-gaeshi </ul></td>
+<td><ul> <li>Udekime-nage </ul></td><td><ul> <li>Uzushio </ul></td></tr>
+
+<tr><td> Ryote-Muna-dori </td><td><ul> <li>Koshi-nage </ul></td><td><ul> <li>Yoko-domoe </ul></td>
+<td><ul> <li>Hiji-domoe </ul></td><td><ul>  </ul></td></tr>
+
+<tr><td> Shomen-uchi </td><td><ul> <li>Yonkyo-nage <lI>Koshi-nage (uchi-/soto-irimi) </ul></td>
+<td><ul> <li>Koshi-guruma <li>Tani-otoshi </ul></td><td><ul> <li>O-guruma (omote) </ul></td>
+<td><ul> O-guruma (ura) </ul></td></tr>
+
+<tR><td> Yokomen-uchi </td><td><ul> <li>Sumi-otoshi (irimi) <li>Koshi-nage (tegatana) 
+<li>Kokyu-nage (tegatana) </ul></td><td><ul> <li>Karami-nage <lI>Kokyu-nage (uchi-tenkan) </ul></td>
+<td><ul> <li>Koshi-nage (uchi-tenkan-kote-hineri) <li>Hiji-gaeshi </ul></td><td><ul> <li>O-guruma 
+</ul></td></tr>
 </table>
 <?php
 include "page_end.php";
