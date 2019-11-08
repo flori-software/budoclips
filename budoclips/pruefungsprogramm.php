@@ -14,7 +14,7 @@ include "page_start.php";
 <td><ul>  <li>Mae-sasae-tobi </ul></td> <td><ul> <li>Yoko-tobi <li>Ushiro-tobi </ul></td>
 <td><ul> <li>Mae-Tobi (Salto) </ul></td></tr>
 
-<tr><td colspan = "6"> <b>Tachi-Waza (Mae-Seme) </td></tr>
+<tr><td colspan = "5"> <b>Tachi-Waza (Mae-Seme) </td></tr>
 
 <tr><td> Katate-Katate-dori<br>(Ai-hammi) </td> <td><ul> <li>Ikkyo <li>Shiho-nage </ul></td>
 <td><ul> <li>Nikyo <li>Juji-nage <li>Irimi-nage <li>Kote-gaeshi </ul></td> 
@@ -74,7 +74,7 @@ include "page_start.php";
 <td><ul> <li>Yonkyo <li>Shiho-nage <li>Kokyu-nage (sot-tenkan) </ul></td>
 <td><ul> <li>Kiri-otoshi (soto-tenkan) <li>Uchi-Kaiten-nage (soto-tenkan)</tr>
 
-<tr><td colspan = "6"> <b>Tachi-Waza(Ushiro-Seme) </td></tr>
+<tr><td colspan = "5"> <b>Tachi-Waza(Ushiro-Seme) </td></tr>
 
 <tr><td> Katate-Muna-dori </td> <td><ul> <li>Ikkyo </ul></td> <td><ul> <li>Nikyo </ul></td>
 <td><ul> <li>Sankyo </ul></td> <td><ul> <li>Yonkyo </ul></td> <td>  </td></tr>
@@ -93,7 +93,7 @@ include "page_start.php";
 <tr><td> Ryo-Kata-dori </td> <td><ul> </ul></td> <td><ul> <li>Ikkyo </ul></td> 
 <td><ul> <li>Nikyo </ul></td> <td><ul> </ul></td> <td><ul> <li>Kokyu-nage (ushiro) </ul></td></tr>
 
-<tr><td colspan = "6"> <b>Suwari-Waza (Mae-Seme) </td></tr>
+<tr><td colspan = "5"> <b>Suwari-Waza (Mae-Seme) </td></tr>
 
 <tr><td> Katate-Katate-dori <br>-diagonal(1) <p>-gerade(2)</td> <td><ul> <li>(1)Ikkyo </ul></td>
 <td><ul> <li>(1)Nikyo <li>(2)Ikkyo </ul></td> <td><ul> <li>(1)Sankyo <li>(1)Irimi-nage 
@@ -112,13 +112,13 @@ include "page_start.php";
 <tr><td> Yokomen-uchi </td><td><ul>  </ul></td><td><ul> <li>Ikkyo </ul></td><td><ul>  </ul></td>
 <td><ul>  </ul></td><td><ul> <li>Gokyo </ul></td></tr>
 
-<tr><td colspan = "6"> <b>Suwari-Waza (Ushiro-Seme) </td></tr>
+<tr><td colspan = "5"> <b>Suwari-Waza (Ushiro-Seme) </td></tr>
 
 <tr><td> Ryote-dori </td><td><ul>  </ul></td><td><ul>  </ul></td><td><ul> <li>Kokyu-nage </ul></td>
 <td><ul> <li>Ikkyo <li>Nikyo (Ura) </ul></td><td><ul> <li>Sankyo (Ura) <li>Yonkyo (Ura) </ul></td>
 </tr>
 
-<tr><td colspan = "6"> <b>Hanmi-Handachi </td></tr>
+<tr><td colspan = "5"> <b>Hanmi-Handachi </td></tr>
 
 <tr><td> Katate-Katate-dori (Gyaku-Hanmi) </td><td><ul>  </ul></td><td><ul>  </ul></td>
 <td><ul>  </ul></td><td><ul> <li>Shiho-nage </ul></td>
@@ -127,7 +127,7 @@ include "page_start.php";
 <tr><td> Ryote-dori </td><td><ul>  </ul></td><td><ul>  </ul></td><td><ul>  </ul></td>
 <td><ul>  </ul></td><td><ul> <li>Shiho-nage </ul></td></tr>
 
-<tr><td colspan = "6"> <b>Sonstige Techniken </td></tr>
+<tr><td colspan = "5"> <b>Sonstige Techniken </td></tr>
 
 <tr><td> <b>Futari-gake </td><td><ul>  </ul></td><td><ul>  </ul></td><td><ul>  </ul></td>
 <td><ul> <li>Kokyu-nage </ul></td><td><ul> <li>Ryo-Nikyo (uchi/soto) </ul></td></tr>
@@ -151,7 +151,7 @@ include "page_start.php";
 <tr><td> Kata </td><td><ul> <li>Tachi-Kata </ul></td><td><ul> <li>Jo-Kata </ul></td>
 <td><ul> Tenchi </ul></td><td><ul>  </ul></td></tr>
 
-<tr><td colspan = "6"> <b>Tachi-Waza(Mae-Seme) </td></tr>
+<tr><td colspan = "5"> <b>Tachi-Waza(Mae-Seme) </td></tr>
 
 <tr><td> Katate-Katate-dori (Gyaku-hanmi) </td><td><ul> <li>Koshi-nage (ikkyo) 
 <li>Uchi-Sankyo </ul></td><td><ul> <li>Koshi-nage (kote-hineri) <li>Karami-nage </ul></td>
@@ -189,6 +189,39 @@ include "page_start.php";
 <li>Kokyu-nage (tegatana) </ul></td><td><ul> <li>Karami-nage <lI>Kokyu-nage (uchi-tenkan) </ul></td>
 <td><ul> <li>Koshi-nage (uchi-tenkan-kote-hineri) <li>Hiji-gaeshi </ul></td><td><ul> <li>O-guruma 
 </ul></td></tr>
+
+<tr><td> Tsuki </td><td><ul> <li>Kokyu-nage (uchi-tenkan) <lI>Koshi-nage (soto-tenkan) 
+<lI>Juji-nage (uchi-/soto-tenkan) </ul></td><td><ul> <li>Kata-otoshi 
+<li>Koshi-nage (kote-hineri/sukui) <li>Karami-nage <li>Soto-Kaiten-nage </ul></td>
+<td><ul> <li>Kote-barai (uchi-tenkan) <li>Ude-guruma <li>Hiji-gatame (uchi-/soto-tenkan) </ul></td>
+<td><ul> <lI>Kubi-gatame <li>Kiji-kime-Tomoe </ul></td></tr>
+
+<tr><td colspan="5"> <b>Tachi-Waza(Ushiro-Seme) </td></tr>
+
+<tr><td> Katate-Muna-dori </td><td><ul> <li>Kokyu-nage (mae, knien) </ul></td>
+<td><ul> <li>Karami-nage </ul></td><td><ul> <li>Koshi-nage (direkt) </ul></td>
+<td><ul> <lI>Hiji-domoe (nach hinten werfen) </ul></td></tr>
+
+<tr><td> Kubi-jime </td><td><ul> <lI>Kokyu-nage (Kopf runter) </ul></td>
+<td><ul> <li>Hiza-gime </ul></td><td><ul>  </ul></td><td><ul>  </ul></td></tr>
+
+<tr><td> Ryote-dori </td><td><ul> <lI>Kokyu-nage (mae, knien) <li>O-Hineri </ul></td>
+<td><ul> <li>Karami-nage <li>Juji-garami </ul></td><td><ul> <li>Koshi-nage (Ikkyo-ura) </ul></td>
+<td><ul> <li>Koshi-nage (Sankyo-ura wirken lassen) </ul></td></tr>
+
+<tr><td> Ryo-Kata-dori </td><td><ul> <li>Irimi-nage (Hände hoch) </ul></td>
+<td><ul> <li>Irimi-nage (drehend zwischen die Arme des Angreifers eintreten) </ul></td>
+<td><ul> <li>Shiho-nage (ganze Drehung) </ul></td><td><ul> <li>Koshi-nage (wie oben) </ul></td></tr>
+
+<tr><td colspan="5"> <b>Suwari-Waza(Mae-Seme) </td></tr>
+
+<tr><td> Katate-Katate-dori <br>-diagonal(1) <br>-gerade(2) </td><td><ul> <li>(1)Hiji-gatame 
+<li>(2)Kote-gaeshi(Hineri) </ul></td><td><ul> <li>(2)Kote-gaeshi(Nukite) </ul></td>
+<td><ul> <li>(2)Hiji-gime-nage (nach hinten werfen) </ul></td><td><ul>  </ul></td></tr>
+
+<tr><tD> Ryote-dori </td><td><ul> <lI>Kote-gaeshi (Hineri) </ul></td>
+<td><ul> <li>Kote-gaeshi (Nukite) </ul></td><td><ul> <li>Irimi-nage (Nukite) 
+<li>Hiji-gime-nage </ul></td><td><ul> <li>Kime-modoshi </ul></td></tr>
 </table>
 <?php
 include "page_end.php";
