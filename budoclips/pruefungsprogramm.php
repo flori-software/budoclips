@@ -222,6 +222,33 @@ include "page_start.php";
 <tr><tD> Ryote-dori </td><td><ul> <lI>Kote-gaeshi (Hineri) </ul></td>
 <td><ul> <li>Kote-gaeshi (Nukite) </ul></td><td><ul> <li>Irimi-nage (Nukite) 
 <li>Hiji-gime-nage </ul></td><td><ul> <li>Kime-modoshi </ul></td></tr>
+
+<tr><td> Shomen-uchi </td><td><ul> <li>Irimi-nage </ul></td><td><ul> <lI>Kote-gaeshi </ul></td>
+<td><ul>  </ul></td><td><ul>  </ul></td></tr>
+
+<tr><td colspan="5"> <b>Suwari-waza(Ushiro-Seme) </td></tr>
+
+<tr><td> Ryote-dori </td><td><ul>  </ul></td><td><ul>  </ul></td><td><ul>  </ul></td>
+<td><ul>  </ul></td></tr>
+
+<tr><td colspan="5"> <b>Hanmi-Handachi </td></tr>
+
+<tr><td> Katate-Katate-dori(Gyaku-Hanmi) </td><td><ul> <li>Ikkyo (Uchi-tenkan) </ul></td>
+<td><ul> <li>Ikkyo (Soto-tenkan) </ul></td><td><ul> <li>Irimi-nage (Uchi- u. Soto-Tenkan) </ul></td>
+<td><ul> <li>Kime-mawashi </ul></td></tr>
+
+<tr><td colspan="5"> <b>Sonstige Techniken </td></tr>
+
+<tr><td> alle Tori-Te (greifende Angriffe) </td><td><ul> <li>Juiyu-Waza </ul></td>
+<td><ul>  </ul></td><td><ul>  </ul></td><td><ul>  </ul></td></tr>
+
+<tr><td> alle Uchi-Te (schlagende Angriffe) </td><td><ul>  </ul></td><td><ul> <li>Jiyu-Waza </ul></td>
+<td><ul>  </ul></td><td><ul>  </ul></td></tr>
+
+<tR><td> Jiyu-Seme (freier Angriff) </td><td><ul>  </ul></td><td><ul>  </ul></td>
+<td><ul> <li>Jiyu-Waza </ul></td><td><ul>  </ul></td></tr>
+
+
 </table>
 <?php
 include "page_end.php";
