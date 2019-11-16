@@ -155,7 +155,7 @@ include "page_start.php";
 
 <tr><td> Katate-Katate-dori (Gyaku-hanmi) </td><td><ul> <li>Koshi-nage (ikkyo) 
 <li>Uchi-Sankyo </ul></td><td><ul> <li>Koshi-nage (kote-hineri) <li>Karami-nage </ul></td>
-<td><ul> <li>Nikyo-Yokodomoe </ul></td><td><ul> <li>Uzishio </ul></td></tr>
+<td><ul> <li>Nikyo-Yokodomoe </ul></td><td><ul> <li>Uzushio </ul></td></tr>
 
 <tr><td> Katate-Katate-dori (Gyaku-hanmi) </td><td><ul> <li>Kote-gaeshi (nukite) 
 <li>Koshi-nage (soto-tenkan) <li>Shiho-nage (ude-gaeshi) </ul></td>
@@ -183,7 +183,7 @@ include "page_start.php";
 
 <tr><td> Shomen-uchi </td><td><ul> <li>Yonkyo-nage <lI>Koshi-nage (uchi-/soto-irimi) </ul></td>
 <td><ul> <li>Koshi-guruma <li>Tani-otoshi </ul></td><td><ul> <li>O-guruma (omote) </ul></td>
-<td><ul> O-guruma (ura) </ul></td></tr>
+<td><ul> <li>O-guruma (ura) </ul></td></tr>
 
 <tR><td> Yokomen-uchi </td><td><ul> <li>Sumi-otoshi (irimi) <li>Koshi-nage (tegatana) 
 <li>Kokyu-nage (tegatana) </ul></td><td><ul> <li>Karami-nage <lI>Kokyu-nage (uchi-tenkan) </ul></td>
@@ -194,7 +194,7 @@ include "page_start.php";
 <lI>Juji-nage (uchi-/soto-tenkan) </ul></td><td><ul> <li>Kata-otoshi 
 <li>Koshi-nage (kote-hineri/sukui) <li>Karami-nage <li>Soto-Kaiten-nage </ul></td>
 <td><ul> <li>Kote-barai (uchi-tenkan) <li>Ude-guruma <li>Hiji-gatame (uchi-/soto-tenkan) </ul></td>
-<td><ul> <lI>Kubi-gatame <li>Kiji-kime-Tomoe </ul></td></tr>
+<td><ul> <lI>Kubi-gatame <li>Hiji-kime-Tomoe </ul></td></tr>
 
 <tr><td colspan="5"> <b>Tachi-Waza(Ushiro-Seme) </td></tr>
 
@@ -248,7 +248,31 @@ include "page_start.php";
 <tR><td> Jiyu-Seme (freier Angriff) </td><td><ul>  </ul></td><td><ul>  </ul></td>
 <td><ul> <li>Jiyu-Waza </ul></td><td><ul>  </ul></td></tr>
 
+<tr><td> Futari-gake(2 Angreifer) </td><td><ul> <li>Tsubasa-gaeshi </ul></td>
+<td><ul> <lI>Shiho-nage </ul></td><td><ul> <li>Kokyu-nage(ushiro) </ul></td>
+<td><ul> <li>Jiyu-Waza </ul></td></tr>
 
+<tR><td> San'nin-gake(3 Angreifer) </td><td><ul>  </ul></td><td><ul>  </ul></td>
+<td><ul> <lI>Jiyu-Waza </ul></td><td><ul> <li>Jiyu-Waza </ul></td></tr>
+
+<tr><td> Tanto-dori Uchioroshi </td><td><ul> <lI>Sumi-Otoshi </ul></td><td><ul> <li>Irimi-nage </ul></td>
+<td><ul> <li>Uchi-Sankyo </ul></td><td><ul> <li>Koshi-nage </ul></td></tr>
+<tr><td>Tanto-dori Tsuki</td><td><ul> <li>Sumi-Otoshi <li>Fukiage </ul></td>
+<td><ul> <li>Karami-nage </ul></td><td><ul> <li>Koshi-nage </ul></td><td><ul> <li>Kubi-nage </ul></td>
+</tr>
+
+<tr><td><table rules="all"> <tr><td> Tachi-dori </td><td> Shomen-uchi </td></tr> </table></td>
+<td><ul> <li>Kote-gaeshi </ul></td><td><ul> <li>Irimi-nage </ul></td>
+<td><ul> <lI>Koshi-nage(Soto-Irimi) </ul></td><td><ul> <li>Koshi-nage(Uchi-Irimi) </ul></td></tr>
+
+<tR><td><table rules="all"> <tr><td> Jo-dori </td><td> Tsuki </td></tr> </table></td>
+<td><ul> <li>Shiho-nage <li>Ten-gaeshi </ul></td><td><ul> <li>Kokyu-nage(Ushiro) </ul></td>
+<td><ul> <li>Hiji-gime-nage </ul></td><td><ul> <li>Nuki-garami </ul></td></tr>
+
+<tr><td> <b>Theorie </td><td><ul> mündliche Prüfung </ul></td>
+<td><ul> Aufsatz über Aikido DIN A4, 1 Seite </ul></td>
+<td><ul> Aufsatz über Aikido DIN A4, 2 Seiten </ul></td>
+<td><ul> Aufsatz über Aikido DIN A4, 3 Seiten </ul></td></tR>
 </table>
 <?php
 include "page_end.php";
