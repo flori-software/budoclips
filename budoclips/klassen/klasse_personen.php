@@ -141,7 +141,7 @@ class Benutzer {
 		foreach ($filme as $key => $film) {
 			if($film == 1) {$this->ids_gekaufte_artikel[] = $key;}
 		}
-		print_r($ids);
+
 		$ids_gekaufte_artikel = implode("*", $this->ids_gekaufte_artikel);
 		$mysqli = MyDatabase();
 		$eintrag = "UPDATE `Benutzer` Set `ids_gekaufte_artikel`='".$ids_gekaufte_artikel."' WHERE `ID` = '".$this->ID."'";

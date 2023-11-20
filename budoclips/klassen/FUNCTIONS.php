@@ -1,7 +1,7 @@
 <?php
 
 function MyDatabase() {
-	$mysqli=new mysqli("localhost","web153","zivi8888","usr_web153_1");
+	$mysqli=new mysqli("localhost","d039be53","WerIstWieDerHerr","d039be53");
 	if (mysqli_connect_errno()) {
     	printf("Es konnte keine Verbindung zur Datenbank aufgebaut werden<p>", mysqli_connect_error());
     	exit();

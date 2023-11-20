@@ -36,7 +36,7 @@ session_start();
 	}
 
 	foreach($menu_inhalte as $key=>$menupunkt) {
-		echo '<a class="menu" href="'.$menupunkt[link].'">'.$menupunkt[name].'</a>';
+		echo '<a class="menu" href="'.$menupunkt["link"].'">'.$menupunkt["name"].'</a>';
 	}
 	echo '<p><div class="inhalt">';
 
